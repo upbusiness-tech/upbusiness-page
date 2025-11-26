@@ -53,8 +53,8 @@ const Hero = () => {
           {/* Social proof */}
           <div className="pt-12 flex flex-col sm:flex-row gap-8 justify-center items-center text-sm text-muted-foreground">
             <div className="flex items-center gap-2">
-              <span className="text-2xl font-bold text-primary">500+</span>
-              <span>Empresas Atendidas</span>
+              <span className="text-2xl font-bold text-primary">5+</span>
+              <span>Anos de experiência</span>
             </div>
             <div className="hidden sm:block w-px h-8 bg-border" />
             <div className="flex items-center gap-2">
@@ -63,7 +63,7 @@ const Hero = () => {
             </div>
             <div className="hidden sm:block w-px h-8 bg-border" />
             <div className="flex items-center gap-2">
-              <span className="text-2xl font-bold text-primary">24/7</span>
+              <span className="text-2xl font-bold text-primary">24h</span>
               <span>Suporte</span>
             </div>
           </div>
