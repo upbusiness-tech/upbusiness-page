@@ -23,13 +23,21 @@ const CTA = () => {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-4">
               <Button
+                asChild
                 size="lg"
                 className="group bg-primary hover:bg-primary/90 text-primary-foreground font-semibold px-8 py-6 text-lg shadow-lg hover:shadow-primary/50 transition-all"
               >
-                <Calendar className="mr-2 w-5 h-5" />
-                Agendar Demonstração Gratuita
-                <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
+                <a
+                  href="https://wa.me/5588981496910"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Agendar Demonstração
+                  <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
+                </a>
               </Button>
+
+
             </div>
 
             <div className="pt-8 flex flex-col sm:flex-row gap-4 justify-center items-center text-sm text-muted-foreground">

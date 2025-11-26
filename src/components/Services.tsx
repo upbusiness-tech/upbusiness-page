@@ -5,7 +5,7 @@ const services = [
   {
     icon: ShoppingCart,
     title: "PDV Inteligente",
-    description: "Sistema de frente de caixa completo com vendas, estoque e controle operacional simples e eficiente.",
+    description: "Sistema de frente de caixa completo com vendas, estoque, controle operacional e app para garçons.",
   },
   {
     icon: Smartphone,

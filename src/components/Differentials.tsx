@@ -24,7 +24,7 @@ const differentials = [
   {
     icon: HeartHandshake,
     title: "Suporte Humanizado",
-    description: "Atendimento rápido feito por pessoas reais que entendem do seu negócio",
+    description: "Atendimento rápido feito por pessoas especializadas que entendem do seu negócio",
   },
   {
     icon: ThumbsUp,
